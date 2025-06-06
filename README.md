@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Tyagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer trying his best</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ansh-699&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-699" />
@@ -80,9 +80,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansh-699&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ansh-699&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
