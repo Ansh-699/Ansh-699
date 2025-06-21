@@ -147,7 +147,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman&perline=10)](https://skillicons.dev)idea
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
