@@ -91,7 +91,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,js,ts,py,dart,php,java,bash&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,rust,py,java,bash&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -119,7 +119,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,kubernetes,docker,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
