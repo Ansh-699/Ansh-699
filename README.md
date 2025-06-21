@@ -57,9 +57,11 @@
   </div>
 
   <!-- Trophies -->
-  <div>
+  <!-- <div>
       <img src="https://github-profile-trophy.vercel.app/?username=Ansh-699&theme=tokyonight&column=6&no-frame=true&margin-w=10" width="680" />
-  </div>
+  </div> -->
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=Ansh-699&theme=tokyonight&no-frame=true&margin-w=10&column=6&title=committer,issue,pr,star,follower,repository)
+
   
 </div>
 
