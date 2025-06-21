@@ -200,11 +200,3 @@
 
 <img src="./assets/border_separator.gif">
 
-## 🌟 Enjoying My Projects?
-
-If you find my work helpful or interesting, please consider **starring my repositories** or **following me on GitHub** — it really motivates me to keep building and sharing! 😊
-
-👉 [View All My Repositories](https://github.com/Ansh-699?tab=repositories)  
-👉 [Follow Me on GitHub](https://github.com/Ansh-699)
-
-Thanks for your support! 💖
