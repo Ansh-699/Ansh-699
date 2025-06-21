@@ -44,7 +44,7 @@
          </p>
      </div>
    </kbd>
-  <kbd>
+
 <!--      <div align="center">
          <p>
        <br> 
@@ -54,8 +54,8 @@
            <img src="https://profile-counter.glitch.me/Ansh-699/count.svg" width="350px" />
          </p>
      </div> -->
-   </kbd>
-   <kbd>
+
+
 <!--      <div align="center">
          <p>
        <br>
@@ -68,7 +68,7 @@
        <br>
          </p>
      </div> -->
-  </kbd>
+ 
 </div>
 
 <br>
