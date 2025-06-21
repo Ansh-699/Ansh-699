@@ -38,11 +38,11 @@
   <h3>Github Stats</h3>
 
   <!-- Profile Summary and Streak -->
-  <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-699&theme=tokyonight" width="680px" />
   </div>
 
-  <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
     <img src="https://streak-stats.demolab.com?user=Ansh-699&theme=tokyonight&hide_border=true" width="680px" />
   </div>
 
