@@ -23,53 +23,26 @@
 <div align="center">
   <h3>Profile Info</h3>
   <kbd>
-     <div align="center">
-         <p>
-       <br>
-         <strong>Contact me</strong>
-       <br>
-       <br>
-         <a href="mailto:anshtyagi7845@gmail.com">
-            <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
-          </a>
-           <a href="https://github.com/Ansh-699">
-            <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
-          </a>
-          <a href="https://www.linkedin.com/in/ansh-tyagi7845/">
-            <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
-          </a>
-           <a href="https://x.com/Ansh7845">
-            <img src="https://skillicons.dev/icons?i=twitter"  width="auto" height="auto"/>
-          </a>
-         </p>
-     </div>
-   </kbd>
-
-<!--      <div align="center">
-         <p>
-       <br> 
-         <strong>Profile Views</strong>
-       <br>
-       <br>
-           <img src="https://profile-counter.glitch.me/Ansh-699/count.svg" width="350px" />
-         </p>
-     </div> -->
-
-
-<!--      <div align="center">
-         <p>
-       <br>
-         <strong>Followers Count</strong>
-       <br>
-       <br>
-       <br>
-          <img src="https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social" alt="followers-count" width="150px"> 
-       <br>
-       <br>
-         </p>
-     </div> -->
- 
+    <div align="center">
+      <p>
+        <strong>Contact me</strong><br><br>
+        <a href="mailto:anshtyagi7845@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+        </a>&nbsp;
+        <a href="https://github.com/Ansh-699">
+          <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+        </a>&nbsp;
+        <a href="https://www.linkedin.com/in/ansh-tyagi7845/">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+        </a>&nbsp;
+        <a href="https://x.com/Ansh7845">
+          <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
+        </a>
+      </p>
+    </div>
+  </kbd>
 </div>
+
 
 <br>
 <div align="center">
