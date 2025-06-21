@@ -91,7 +91,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,rust,py,java,bash&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,rust,go,py,java,bash&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -119,7 +119,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,githubactions,kubernetes,docker,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,aws,gcp,kafka,kubernetes,docker,cloudflare,azure,vercel&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -133,7 +133,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,windows,discord,github,linkedin,instagram,stack-overflow&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arch,linux,ubuntu,windows,discord,github,linkedin,twitter,stack-overflow&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
@@ -147,7 +147,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,eclipse,idea,postman&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman&perline=10)](https://skillicons.dev)idea
       </p>
     </div>
   </kbd>
@@ -161,7 +161,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=figma,photoshop,npm&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=figma,bun,photoshop,express,npm&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
