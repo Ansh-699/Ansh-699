@@ -195,6 +195,8 @@
 
 </div>
 
-
-<img src="./assets/penguin.gif">
+<div align="center">
+  <img src="./assets/penguin.gif">
+</div>
+<!-- <img src="./assets/penguin.gif"> -->
 
