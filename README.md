@@ -16,7 +16,7 @@
         <br>
         <strong>Let's Connect!</strong>
         <br>
-        <hr width="675">
+        <hr width="400">
         <br>
         <a href="mailto:anshtyagi7845@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /></a>
         &nbsp;&nbsp;&nbsp;
