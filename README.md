@@ -47,10 +47,10 @@
   </div>
 
   <!-- Language Stats -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+  <!-- <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansh-699&theme=tokyonight" width="340px" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansh-699&theme=tokyonight" width="340px" />
-  </div>
+  </div> -->
 
   <!-- Activity Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
