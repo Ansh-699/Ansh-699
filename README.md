@@ -1,92 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ansh Tyagi</h1>
-<h3 align="center">A passionate developer trying his best</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ansh-699&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-699" />
+<a href="https://github.com/ansh-699">
+  <img src="https://img.shields.io/github/followers/ansh-699?label=Followers&style=social" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/ansh-699?tab=repositories">
+  <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-ansh--699-blueviolet" alt="Star My Repos" />
+</a>
+<a href="https://github.com/ansh-699">
+  <img src="https://komarev.com/ghpvc/?username=ansh-699&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+<a href="https://github.com/ansh-699">
+  <img src="https://img.shields.io/github/last-commit/ansh-699/ansh-699?color=green" alt="Last Commit" />
+</a>
+<a href="https://github.com/ansh-699">
+  <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ansh-699">
-    <img src="https://img.shields.io/github/followers/ansh-699?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/ansh-699?tab=repositories">
-    <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-ansh--699-blueviolet" alt="Star My Repos" />
-  </a>
-  <a href="https://github.com/ansh-699">
-    <img src="https://komarev.com/ghpvc/?username=ansh-699&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/ansh-699">
-    <img src="https://img.shields.io/github/last-commit/ansh-699/ansh-699?color=green" alt="Last Commit" />
-  </a>
-  <a href="https://github.com/ansh-699">
-    <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
-  </a>
-</p>
+![MASTER-HEAD](./assets/api_animated_gif.gif)
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ansh%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+<img src="./assets/border_separator.gif">
 
-### 🚀 About Me
+<div align="center">
+  <h3>Profile Info</h3>
+  <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Contact me</strong>
+       <br>
+       <br>
+         <a href="mailto:your-email@example.com">
+            <img src="https://skillicons.dev/icons?i=gmail" width="auto" height="auto"/>
+          </a>
+           <a href="https://github.com/ansh-699">
+            <img src="https://skillicons.dev/icons?i=github" width="auto" height="auto"/>
+          </a>
+          <a href="https://www.linkedin.com/in/ansh-tyagi7845">
+            <img src="https://skillicons.dev/icons?i=linkedin" width="auto" height="auto"/>
+          </a>
+         </p>
+     </div>
+   </kbd>
+  <kbd>
+     <div align="center">
+         <p>
+       <br> 
+         <strong>Profile Views</strong>
+       <br>
+       <br>
+           <img src="https://profile-counter.glitch.me/ansh-699/count.svg" width="350px" />
+         </p>
+     </div>
+   </kbd>
+   <kbd>
+     <div align="center">
+         <p>
+       <br>
+         <strong>Followers Count</strong>
+       <br>
+       <br>
+       <br>
+          <img src="https://img.shields.io/github/followers/ansh-699?label=Followers&style=social" alt="followers-count" width="150px"> 
+       <br>
+       <br>
+         </p>
+     </div>
+  </kbd>
+</div>
 
-- 🌱 I’m currently learning **DSA**, **Golang**
-- 👯 I’m looking to collaborate on **Web2 & Web3** projects
+<br>
+<div align="center">
+  <img src="./assets/terminal.gif" />
+</div>
+<img src="./assets/border_separator.gif">
 
----
+<!-- Github Stats -->
+<div align="center">
+  <h3>Github Stats</h3>
 
-### 🌐 Connect with Me
+  <!-- Profile Summary and Streak -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansh-699&theme=tokyonight" width="680px" />
+  </div>
 
-<p align="left">
-  <a href="https://x.com/Ansh7845" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/ansh-tyagi7845" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="https://streak-stats.demolab.com?user=ansh-699&theme=tokyonight&hide_border=true" width="680px" />
+  </div>
 
----
+  <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ansh-699&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansh-699&theme=tokyonight" width="340px" />
+  </div>
 
-### 🛠️ Languages and Tools
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ansh-699&theme=tokyonight" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ansh-699&theme=tokyonight&utcOffset=+5.5" width="340px" />
+  </div>
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-</p>
+  <!-- Trophies -->
+  <div>
+      <img src="https://github-profile-trophy.vercel.app/?username=ansh-699&theme=tokyonight&column=6&no-frame=true&margin-w=10" width="680" />
+  </div>
+</div>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansh-699&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansh-699&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-699&theme=github-dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-699&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
+<img src="./assets/border_separator.gif">
 
 ## 🌟 Enjoying My Projects?
 
