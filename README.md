@@ -147,7 +147,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=figma,bun,photoshop,express,npm&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=bun,express,npm&perline=10)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
