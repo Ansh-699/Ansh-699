@@ -38,7 +38,7 @@
           <a href="https://www.linkedin.com/in/ansh-tyagi7845/">
             <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
           </a>
-           <a href="https://www.linkedin.com/in/Ansh-699/">
+           <a href="https://x.com/Ansh7845">
             <img src="https://skillicons.dev/icons?i=twitter"  width="auto" height="auto"/>
           </a>
          </p>
@@ -61,7 +61,7 @@
        <br>
          <strong>Followers Count</strong>
        <br>
-       <br>
+       <br>https://x.com/Ansh7845
        <br>
           <img src="https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social" alt="followers-count" width="150px"> 
        <br>
