@@ -13,19 +13,14 @@
   <kbd>
     <div align="center">
       <p>
-        <br>
-        <strong>Let's Connect!</strong>
-        <br>
-        <hr width="400">
-        <br>
-        <a href="mailto:anshtyagi7845@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail" /></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Ansh-699"><img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" /></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" /></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://x.com/Ansh7845"><img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" alt="X" /></a>
-        <br><br>
+        <strong></strong><br><br>
+        <a href="mailto:anshtyagi7845@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /></a>
+        &nbsp;
+        <a href="https://github.com/Ansh-699"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
+        &nbsp;
+        <a href="https://x.com/Ansh7845"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" /></a>
       </p>
     </div>
   </kbd>
