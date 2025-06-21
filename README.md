@@ -42,7 +42,7 @@
      </div>
    </kbd>
   <kbd>
-     <div align="center">
+<!--      <div align="center">
          <p>
        <br> 
          <strong>Profile Views</strong>
@@ -50,7 +50,7 @@
        <br>
            <img src="https://profile-counter.glitch.me/Ansh-699/count.svg" width="350px" />
          </p>
-     </div>
+     </div> -->
    </kbd>
    <kbd>
      <div align="center">
