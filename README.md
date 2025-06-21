@@ -105,7 +105,7 @@
         <hr width="675">
         <br>
         
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,bootstrap,tailwind,vite,supabase,mysql,postgres,Cassandra-Dark,prisma,dynamodb&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,vite,supabase,mysql,postgres,cassandra,prisma)](https://skillicons.dev)
       </p>
     </div>
   </kbd>
