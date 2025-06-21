@@ -178,8 +178,6 @@
   <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a>
     <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="nodejs"/></a>
 
-      </p>
-    </div>
   </kbd>
 
   <!-- <kbd>
