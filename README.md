@@ -57,9 +57,10 @@
   </div>
 
   <!-- Trophies -->
-  <div>
-      <img src="https://github-profile-trophy.vercel.app/?username=Ansh-699&theme=tokyonight&column=6&no-frame=true&margin-w=10" width="680" />
-  </div>
+ <div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ansh-699&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10" width="680" />
+</div>
+
   
 </div>
 
