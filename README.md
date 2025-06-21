@@ -1,25 +1,24 @@
-<p align="center">
-  <a href="https://github.com/Ansh-699">
-    <img src="https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Ansh-699?tab=repositories">
-    <img src="https://img.shields.io/badge/🌟 Star My Repos-Ansh--699-blueviolet" alt="Star My Repos" />
-  </a>
-  <a href="https://github.com/Ansh-699">
-    <img src="https://komarev.com/ghpvc/?username=Ansh-699&label=Profile Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Ansh-699">
-    <img src="https://img.shields.io/github/last-commit/Ansh-699/Ansh-699?color=green" alt="Last Commit" />
-  </a>
-  <a href="https://github.com/Ansh-699">
-    <img src="https://img.shields.io/badge/Check My-Code-blue?style=flat&logo=github" alt="Check My Code" />
-  </a>
+<a href="https://github.com/Ansh-699">
+  <img src="https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/Ansh-699?tab=repositories">
+  <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Ansh--699-blueviolet" alt="Star My Repos" />
+</a>
+<a href="https://github.com/Ansh-699">
+  <img src="https://komarev.com/ghpvc/?username=Ansh-699&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+<a href="https://github.com/Ansh-699">
+  <img src="https://img.shields.io/github/last-commit/Ansh-699/Ansh-699?color=green" alt="Last Commit" />
+</a>
+<a href="https://github.com/Ansh-699">
+  <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+</a>
 </p>
 
 ![MASTER-HEAD](./assets/api_animated_gif.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi there 👋, I'm Ansh, Thanks for visiting!;If you like my work, consider giving my repos a ⭐ — it really helps!)](https://git.io/typing-svg)
-<img src="./assets/border_separator.gif" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF7BB&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ansh%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+%E2%80%94+it+really+helps!)](https://git.io/typing-svg)
+<img src="./assets/border_separator.gif">
 
 <div align="center">
   <h3>Profile Info</h3>
@@ -27,18 +26,22 @@
     <div align="center">
       <p>
         <strong>Contact me</strong><br><br>
-        <a href="mailto:anshtyagi7845@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /></a>
-        &nbsp;
-        <a href="https://github.com/Ansh-699"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
-        &nbsp;
-        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
-        &nbsp;
-        <a href="https://x.com/Ansh7845"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" /></a>
+        <a href="mailto:anshtyagi7845@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+        </a>&nbsp;
+        <a href="https://github.com/Ansh-699">
+          <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+        </a>&nbsp;
+        <a href="https://www.linkedin.com/in/ansh-tyagi7845/">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+        </a>&nbsp;
+        <a href="https://x.com/Ansh7845">
+          <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
+        </a>
       </p>
     </div>
   </kbd>
 </div>
-
 
 
 <br>
@@ -172,4 +175,3 @@
 
 
 <img src="./assets/border_separator.gif">
-
