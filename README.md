@@ -176,15 +176,17 @@
    <a href="https://bun.sh/docs"><img src="https://skillicons.dev/icons?i=bun" alt="Bun"/></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
   <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a>
-    <a href="https://docs.nodejs.com/"><img src="https://nodejs.org/docs/latest/api/" alt="nodejs"/></a>
+    <a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/></a>
 
   </kbd>
 
 </div>
 </div>
 
+
 <div align="center">
   <img src="./assets/penguin.gif">
 </div>
+
 
 
