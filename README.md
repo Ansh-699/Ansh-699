@@ -165,7 +165,7 @@
     <div align="center">
       <p>
         <br>
-        <strong>IDEs & Code Editors, Testing & Monitoring</strong>
+        <strong>IDEs,Testing,Package Manager  </strong>
         <br>
         <hr width="675">
         <br>
@@ -173,11 +173,16 @@
   <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
   <a href="https://docs.microsoft.com/visualstudio/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio"/></a>
   <a href="https://learning.postman.com/docs/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
+   <a href="https://bun.sh/docs"><img src="https://skillicons.dev/icons?i=bun" alt="Bun"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
+  <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a>
+    <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="nodejs"/></a>
+
       </p>
     </div>
   </kbd>
 
-  <kbd>
+  <!-- <kbd>
     <div align="center">
       <p>
         <br>
@@ -191,7 +196,7 @@
   <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a>
       </p>
     </div>
-  </kbd>
+  </kbd> -->
 
 </div>
 
