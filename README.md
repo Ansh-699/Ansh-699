@@ -1,18 +1,20 @@
-<a href="https://github.com/Ansh-699">
-  <img src="https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/Ansh-699?tab=repositories">
-  <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Ansh--699-blueviolet" alt="Star My Repos" />
-</a>
-<a href="https://github.com/Ansh-699">
-  <img src="https://komarev.com/ghpvc/?username=Ansh-699&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</a>
-<a href="https://github.com/Ansh-699">
-  <img src="https://img.shields.io/github/last-commit/Ansh-699/Ansh-699?color=green" alt="Last Commit" />
-</a>
-<a href="https://g</p>ithub.com/Ansh-699">
-  <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <a href="https://github.com/Ansh-699">
+    <img src="https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Ansh-699?tab=repositories">
+    <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-Ansh--699-blueviolet" alt="Star My Repos" />
+  </a>
+  <a href="https://github.com/Ansh-699">
+    <img src="https://komarev.com/ghpvc/?username=Ansh-699&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Ansh-699">
+    <img src="https://img.shields.io/github/last-commit/Ansh-699/Ansh-699?color=green" alt="Last Commit" />
+  </a>
+  <a href="https://github.com/Ansh-699">
+    <img src="https://img.shields.io/badge/Check%20My-Code-blue?style=flat&logo=github" alt="Check My Code" />
+  </a>
+</div>
 </p>
 
 <!-- ![MASTER-HEAD](./assets/cat-laptop.gif) -->
