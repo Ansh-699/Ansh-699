@@ -76,8 +76,7 @@
     <div align="center">
       <p>
         <br>
-        ![Programming Languages](https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=BF91F3&center=true&vCenter=true&width=300&height=40&lines=Programming+Languages)
-
+        <strong>Programming Languages</strong>
         <br>
         <hr width="675">
         <br>
