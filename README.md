@@ -26,18 +26,13 @@
     <div align="center">
       <p>
         <strong>Contact me</strong><br><br>
-        <a href="mailto:anshtyagi7845@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
-        </a>&nbsp;
-        <a href="https://github.com/Ansh-699">
-          <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-        </a>&nbsp;
-        <a href="https://www.linkedin.com/in/ansh-tyagi7845/">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
-        </a>&nbsp;
-        <a href="https://x.com/Ansh7845">
-          <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" />
-        </a>
+        <a href="mailto:anshtyagi7845@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /></a>
+        &nbsp;
+        <a href="https://github.com/Ansh-699"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
+        &nbsp;
+        <a href="https://x.com/Ansh7845"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" /></a>
       </p>
     </div>
   </kbd>
