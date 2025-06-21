@@ -29,14 +29,17 @@
          <strong>Contact me</strong>
        <br>
        <br>
-         <a href="mailto:alexarnaizaparece@gmail.com">
+         <a href="mailto:anshtyagi7845@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail"  width="auto" height="auto"/>
           </a>
            <a href="https://github.com/Ansh-699">
             <img src="https://skillicons.dev/icons?i=github"  width="auto" height="auto"/>
           </a>
-          <a href="https://www.linkedin.com/in/alex-aparecejr-529669369">
+          <a href="https://www.linkedin.com/in/ansh-tyagi7845/">
             <img src="https://skillicons.dev/icons?i=linkedin"  width="auto" height="auto"/>
+          </a>
+           <a href="https://www.linkedin.com/in/Ansh-699/">
+            <img src="https://skillicons.dev/icons?i=twitter"  width="auto" height="auto"/>
           </a>
          </p>
      </div>
