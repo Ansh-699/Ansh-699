@@ -196,5 +196,5 @@
 </div>
 
 
-<img src="./assets/border_separator.gif">
+<img src="./assets/penguin.gif">
 
