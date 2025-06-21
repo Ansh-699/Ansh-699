@@ -56,18 +56,18 @@
      </div> -->
    </kbd>
    <kbd>
-     <div align="center">
+<!--      <div align="center">
          <p>
        <br>
          <strong>Followers Count</strong>
        <br>
-       <br>https://x.com/Ansh7845
+       <br>
        <br>
           <img src="https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social" alt="followers-count" width="150px"> 
        <br>
        <br>
          </p>
-     </div>
+     </div> -->
   </kbd>
 </div>
 
