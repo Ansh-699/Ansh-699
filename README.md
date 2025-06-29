@@ -82,7 +82,7 @@
         <br>
         
   <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
-  <a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
+  <a href="https://en.cppreference.com/w/cpp"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" height="60" width= "65" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
   <a href="https://www.rust-lang.org/learn"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"/></a>
@@ -103,7 +103,7 @@
         <hr width="675">
         <br>
         
-  <a href="https://reactjs.org/docs/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+  <a href="https://reactjs.org/docs/"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="60" width = "65"/></a>
   <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/></a>
   <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/></a>
@@ -126,12 +126,12 @@
         <hr width="675">
         <br>
         
-  <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://docs.aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
+  <a href="https://docs.github.com/"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" height="60" width= "65"/></a>
+  <a href="https://docs.aws.amazon.com/"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS"  height="60" width= "65"/></a>
   <a href="https://cloud.google.com/docs"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP"/></a>
   <a href="https://kafka.apache.org/documentation/"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka"/></a>
-  <a href="https://kubernetes.io/docs/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></a>
-  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://kubernetes.io/docs/"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" height="60" width = "65" /></a>
+  <a href="https://docs.docker.com/"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" height="60" width= "65"/></a>
   <a href="https://developers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare"/></a>
   <a href="https://docs.microsoft.com/azure/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure"/></a>
   <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></a>
