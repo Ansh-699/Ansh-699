@@ -18,9 +18,9 @@
         &nbsp;
         <a href="https://github.com/Ansh-699"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
         &nbsp;
-        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="./assets/linkedin.gif" width="65" height="60" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
         &nbsp;
-        <a href="https://x.com/Ansh7845"><img src="./assets/twitter.gif" width="65" height="60" alt="X" /></a>
+        <a href="https://x.com/Ansh7845"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" /></a>
       </p>
     </div>
   </kbd>
@@ -154,8 +154,8 @@
   <a href="https://docs.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></a>
   <a href="https://discord.com/developers/docs"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
   <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="https://developer.twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/"><img src="./assets/linkedin.gif" alt="LinkedIn" height="60" width= "65"/></a>
+  <a href="https://developer.twitter.com/"><img src="./assets/twitter.gif" alt="Twitter" height="60" width= "65"/></a>
   <a href="https://stackoverflow.com/"><img src="./assets/stack.gif" alt="Stack Overflow" height="60" width= "65"/></a>
       </p>
     </div>
