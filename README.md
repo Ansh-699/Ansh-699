@@ -154,7 +154,7 @@
   <a href="https://docs.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></a>
   <a href="https://discord.com/developers/docs"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
   <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/"><img src="./assets//linkedin.gif" alt="LinkedIn" height="60" width="60"/></a>
   <a href="https://developer.twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
   <a href="https://stackoverflow.com/"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow"/></a>
       </p>
