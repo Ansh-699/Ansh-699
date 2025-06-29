@@ -18,9 +18,9 @@
         &nbsp;
         <a href="https://github.com/Ansh-699"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
         &nbsp;
-        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
+        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="./assets/linkedin.gif" width="65" height="60" alt="LinkedIn" /></a>
         &nbsp;
-        <a href="https://x.com/Ansh7845"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" /></a>
+        <a href="https://x.com/Ansh7845"><img src="./assets/twitter.gif" width="65" height="60" alt="X" /></a>
       </p>
     </div>
   </kbd>
