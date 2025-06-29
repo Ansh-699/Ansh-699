@@ -131,7 +131,7 @@
   <a href="https://cloud.google.com/docs"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP"/></a>
   <a href="https://kafka.apache.org/documentation/"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka"/></a>
   <a href="https://kubernetes.io/docs/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></a>
-  <a href="https://docs.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://docs.docker.com/"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65"  height="60"/></a>
   <a href="https://developers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare"/></a>
   <a href="https://docs.microsoft.com/azure/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure"/></a>
   <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></a>
