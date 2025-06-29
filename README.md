@@ -126,7 +126,7 @@
         <hr width="675">
         <br>
         
-  <a href="https://docs.github.com/"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" height="60" width= "65"/></a>
+  <a href="https://docs.github.com/"><img src="./assets/Github.gif" alt="GitHub" height="60" width= "65"/></a>
   <a href="https://docs.aws.amazon.com/"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS"  height="60" width= "65"/></a>
   <a href="https://cloud.google.com/docs"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP"/></a>
   <a href="https://kafka.apache.org/documentation/"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka"/></a>
