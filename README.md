@@ -82,7 +82,7 @@
         <br>
         
   <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
-  <a href="https://en.cppreference.com/w/cpp"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" height="60" width= "65" /></a>
+  <a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"  /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
   <a href="https://www.rust-lang.org/learn"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"/></a>
