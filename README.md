@@ -14,6 +14,7 @@
 ![MASTER-HEAD](./assets/header.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ansh%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+it+really+helps!)](https://github.com/Ansh-699)
+<!--
 <img src="./assets/border_separator.gif">
 
 <div align="center">
@@ -39,9 +40,10 @@
 <div align="center">
   <img src="./assets/terminal.gif" />
 </div>
+-->
 <img src="./assets/border_separator.gif">
 
-<!-- Github Stats -->
+
 <!-- Github Stats -->
 <div align="center">
   <h3>Github Stats</h3>
