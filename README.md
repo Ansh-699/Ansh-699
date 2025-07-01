@@ -1,4 +1,3 @@
-[![Followers](https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social)](https://github.com/Ansh-699) [![GitHub Stars](https://img.shields.io/github/stars/Ansh-699?style=social)](https://github.com/Ansh-699?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ansh-699&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ansh-699) 
 
 
 
