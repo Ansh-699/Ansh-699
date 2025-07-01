@@ -1,6 +1,17 @@
 [![Followers](https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social)](https://github.com/Ansh-699) [![GitHub Stars](https://img.shields.io/github/stars/Ansh-699?style=social)](https://github.com/Ansh-699?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ansh-699&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ansh-699) 
 
 
+
+[![Followers](https://img.shields.io/github/followers/Ansh-699?label=Followers&style=flat-square&colorA=EDE7F6&colorB=D1C4E9&logo=github&logoColor=5E35B1)](https://github.com/Ansh-699)
+[![Stars](https://img.shields.io/github/stars/Ansh-699?label=Stars&style=flat-square&colorA=FFEBEE&colorB=FFCDD2&logo=star&logoColor=D32F2F)](https://github.com/Ansh-699?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ansh-699&label=Views&style=flat-square&colorA=E8F5E9&colorB=C8E6C9&logo=eye&logoColor=388E3C)](https://github.com/Ansh-699)
+
+
+
+
+
+
+
 ![MASTER-HEAD](./assets/header.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ansh%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+it+really+helps!)](https://github.com/Ansh-699)
