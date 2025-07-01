@@ -1,6 +1,4 @@
-[![Followers](https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social)](https://github.com/Ansh-699) [![GitHub Stars](https://img.shields.io/github/stars/Ansh-699?style=social)](https://github.com/Ansh-699?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ansh-699&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ansh-699) [![Last Commit](https://img.shields.io/github/last-commit/Ansh-699/Ansh-699?color=green)](https://github.com/Ansh-699) [![Check My Code](https://img.shields.io/badge/Check%20My%20Code-blue?style=flat&logo=github)](https://github.com/Ansh-699)
-
-
+[![Followers](https://img.shields.io/github/followers/Ansh-699?label=Followers&style=social)](https://github.com/Ansh-699) [![GitHub Stars](https://img.shields.io/github/stars/Ansh-699?style=social)](https://github.com/Ansh-699?tab=repositories) [![Profile Views](https://komarev.com/ghpvc/?username=Ansh-699&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Ansh-699) 
 
 
 ![MASTER-HEAD](./assets/header.png)
@@ -34,38 +32,53 @@
 <img src="./assets/border_separator.gif">
 
 <!-- Github Stats -->
+<!-- Github Stats -->
 <div align="center">
   <h3>Github Stats</h3>
 
-  <!-- Profile Summary and Streak -->
+  <!-- Profile Summary & Streak side‑by‑side -->
   <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-699&theme=tokyonight" width="680px" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-699&theme=tokyonight"
+      width="680px"
+      alt="Profile Summary"
+    />
   </div>
-
   <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
-    <img src="https://streak-stats.demolab.com?user=Ansh-699&theme=tokyonight&hide_border=true" width="680px" />
+    <img
+      src="https://streak-stats.demolab.com/?user=Ansh-699&theme=tokyonight&hide_border=true"
+      width="680px"
+      alt="GitHub Streak"
+    />
   </div>
-
-  <!-- Language Stats -->
-  <!-- <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansh-699&theme=tokyonight" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansh-699&theme=tokyonight" width="340px" />
-  </div> -->
 
   <!-- Activity Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansh-699&theme=tokyonight" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansh-699&theme=tokyonight&utcOffset=+5.5" width="340px" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansh-699&theme=tokyonight"
+      width="340px"
+      alt="Activity Stats"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansh-699&theme=tokyonight&utcOffset=+5.5"
+      width="340px"
+      alt="Productive Time"
+    />
   </div>
 
   <!-- Trophies -->
-  </p>
- <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=Ansh-699&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10" width="680" />
+  <div>
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Ansh-699&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10"
+      width="680px"
+      alt="Trophies"
+    />
+  </div>
 </div>
 
-  
-</div>
+
+
+
 
 <!-- Language and Tools -->
 
