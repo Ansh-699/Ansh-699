@@ -59,11 +59,12 @@
   </div>
   <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
     <img
-      src="https://streak-stats.demolab.com/?user=Ansh-699&theme=tokyonight&hide_border=true"
+      src="https://github-readme-streak-stats-alpha-beige.vercel.app?user=Ansh-699&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=490&card_height=120&hide_border=true"
       width="680px"
       alt="GitHub Streak"
     />
   </div>
+  
 
   <!-- Activity Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
