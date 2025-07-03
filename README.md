@@ -1,49 +1,11 @@
-
-
-
 [![Followers](https://img.shields.io/github/followers/Ansh-699?label=Followers&style=flat-square&colorA=EDE7F6&colorB=D1C4E9&logo=github&logoColor=5E35B1)](https://github.com/Ansh-699)
 [![Stars](https://img.shields.io/github/stars/Ansh-699?label=Stars&style=flat-square&colorA=FFEBEE&colorB=FFCDD2&logo=star&logoColor=D32F2F)](https://github.com/Ansh-699?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ansh-699&label=Views&style=flat-square&colorA=E8F5E9&colorB=C8E6C9&logo=eye&logoColor=388E3C)](https://github.com/Ansh-699)
-
-
-
-
-
-
 
 ![MASTER-HEAD](./assets/header.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=BF91F3&width=850&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ansh%2C+Thanks+for+visiting!;If+you+like+my+work%2C+consider+giving+my+repos+a+%E2%AD%90+it+really+helps!)](https://github.com/Ansh-699)
 <img src="./assets/border_separator.gif">
-<!--
-<div align="center">
-  <h3>Contact Me</h3>
-  <kbd>
-    <div align="center">
-      <p>
-        <strong></strong><br><br>
-        <a href="mailto:anshtyagi7845@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /></a>
-        &nbsp;
-        <a href="https://github.com/Ansh-699"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /></a>
-        &nbsp;
-        <a href="https://www.linkedin.com/in/ansh-tyagi7845/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
-        &nbsp;
-        <a href="https://x.com/Ansh7845"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X" /></a>
-      </p>
-    </div>
-  </kbd>
-</div>
-
-
-
-<br>
-<div align="center">
-  <img src="./assets/terminal.gif" />
-</div>
-
-<img src="./assets/border_separator.gif">
--->
-
 
 <!-- Github Stats -->
 <div align="center">
@@ -52,7 +14,7 @@
   <!-- Profile Summary & Streak side‑by‑side -->
   <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-699&theme=tokyonight"
+      src="https://readme-generator-xi.vercel.app/api/cards/profile-details?username=Ansh-699&theme=tokyonight"
       width="680px"
       alt="Profile Summary"
     />
@@ -64,17 +26,16 @@
       alt="GitHub Streak"
     />
   </div>
-  
 
   <!-- Activity Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansh-699&theme=tokyonight"
+      src="https://readme-generator-xi.vercel.app/api/cards/stats?username=Ansh-699&theme=tokyonight"
       width="340px"
       alt="Activity Stats"
     />
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ansh-699&theme=tokyonight&utcOffset=+5.5"
+      src="https://readme-generator-xi.vercel.app/api/cards/productive-time?username=Ansh-699&theme=tokyonight&utcOffset=+5.5"
       width="340px"
       alt="Productive Time"
     />
