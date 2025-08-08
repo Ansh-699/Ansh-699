@@ -14,14 +14,14 @@
   <!-- Profile Summary & Streak side‑by‑side -->
   <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
     <img
-      src="https://readme-generator-xi.vercel.app/api/cards/profile-details?username=Ansh-699&theme=tokyonight"
+      src="https://readme-2.vercel.app//api/cards/profile-details?username=Ansh-699&theme=tokyonight"
       width="680px"
       alt="Profile Summary"
     />
   </div>
   <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
     <img
-      src="https://github-readme-streak-stats-alpha-beige.vercel.app?user=Ansh-699&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=50&hide_border=true"
+      src="https://github-readme-streak-stats-2-one.vercel.app/?user=Ansh-699&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=50&hide_border=true"
       width="680px"
       alt="GitHub Streak"
     />
@@ -30,12 +30,12 @@
   <!-- Activity Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img
-      src="https://readme-generator-xi.vercel.app/api/cards/stats?username=Ansh-699&theme=tokyonight"
+      src="https://readme-2.vercel.app//api/cards/stats?username=Ansh-699&theme=tokyonight"
       width="340px"
       alt="Activity Stats"
     />
     <img
-      src="https://readme-generator-xi.vercel.app/api/cards/productive-time?username=Ansh-699&theme=tokyonight&utcOffset=+5.5"
+      src="https://readme-2.vercel.app//api/cards/productive-time?username=Ansh-699&theme=tokyonight&utcOffset=+5.5"
       width="340px"
       alt="Productive Time"
     />
