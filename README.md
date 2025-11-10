@@ -153,7 +153,7 @@
     <div align="center">
       <p>
         <br>
-        <strong>IDEs,Testing,Package Manager  </strong>
+        <strong>IDEs, Testing, Package Manager</strong>
         <br>
         <hr width="675">
         <br>
