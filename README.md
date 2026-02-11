@@ -43,8 +43,7 @@
 
   <!-- Trophies -->
   <div>
-   ![Trophy](./profile/trophy.svg)
-
+    <img src="./profile/trophy.svg" alt="GitHub Trophy" />
   </div>
 </div>
 
