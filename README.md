@@ -53,119 +53,29 @@
 
 <!-- Language and Tools -->
 
+<!-- Tech Stack -->
 <div align="center">
-  <h3>Technologies and Tools</h3>
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>Programming Languages</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
-  <a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"  /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
-  <a href="https://www.rust-lang.org/learn"><img src="https://skillicons.dev/icons?i=rust" alt="Rust"/></a>
-  <a href="https://golang.org/doc/"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
-  <a href="https://docs.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
-  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-  <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
-      </p>
-    </div>
-  </kbd>
+###  Tech Stack
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>Libraries, Frameworks & Databases</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
-  <a href="https://reactjs.org/docs/"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="60" width = "65"/></a>
-  <a href="https://nextjs.org/docs"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/></a>
-  <a href="https://tailwindcss.com/docs"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/></a>
-  <a href="https://vitejs.dev/guide/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"/></a>
-  <a href="https://supabase.com/docs"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/></a>
-  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
-  <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
-  <a href="https://cassandra.apache.org/doc/"><img src="https://skillicons.dev/icons?i=cassandra" alt="Cassandra"/></a>
-  <a href="https://www.prisma.io/docs/"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma"/></a>
-      </p>
-    </div>
-  </kbd>
+<p>
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>DevOps & Cloud</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
-  <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" width= "65"/></a>
-  <a href="https://docs.aws.amazon.com/"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS"  height="60" width= "65"/></a>
-  <a href="https://cloud.google.com/docs"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP"/></a>
-  <a href="https://kafka.apache.org/documentation/"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka"/></a>
-  <a href="https://kubernetes.io/docs/"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" height="60" width = "65" /></a>
-  <a href="https://docs.docker.com/"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" height="60" width= "65"/></a>
-  <a href="https://developers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare"/></a>
-  <a href="https://docs.microsoft.com/azure/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure"/></a>
-  <a href="https://vercel.com/docs"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></a>
-      </p>
-    </div>
-  </kbd>
+ <div align="center">
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>Operating Systems, Platforms & Networks</strong>
-        <br>
-        <hr width="675">
-        <br>
-        
-  <a href="https://wiki.archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux"/></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
-  <a href="https://help.ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu"/></a>
-  <a href="https://docs.microsoft.com/windows/"><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></a>
-  <a href="https://discord.com/developers/docs"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
-  <a href="https://docs.github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="https://developer.twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-  <a href="https://stackoverflow.com/"><img src="./assets/stack.gif" alt="Stack Overflow" height="60" width= "65"/></a>
-      </p>
-    </div>
-  </kbd>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,rust,java,bash" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,express,prisma,supabase,mysql,postgres,cassandra" />
+  <img src="https://skillicons.dev/icons?i=github,docker,kubernetes,aws,gcp,azure,cloudflare,vercel,kafka" />
 
-  <kbd>
-    <div align="center">
-      <p>
-        <br>
-        <strong>IDEs,Testing,Package Manager  </strong>
-        <br>
-        <hr width="675">
-        <br>
-        
-  <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/></a>
-  <a href="https://docs.microsoft.com/visualstudio/"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio"/></a>
-  <a href="https://learning.postman.com/docs/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
-   <a href="https://bun.sh/docs"><img src="https://skillicons.dev/icons?i=bun" alt="Bun"/></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
-  <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a>
-    <a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" height="48" />
 
-  </kbd>
+  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,postman,npm,bun,nodejs,twitter" />
 
 </div>
+
+</p>
+
 </div>
+
 
 
 <div align="center">
