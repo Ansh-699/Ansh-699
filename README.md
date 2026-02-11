@@ -43,11 +43,8 @@
 
   <!-- Trophies -->
   <div>
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=Ansh-699&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10"
-      width="680px"
-      alt="Trophies"
-    />
+   ![Trophy](./profile/trophy.svg)
+
   </div>
 </div>
 
