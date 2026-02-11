@@ -18,13 +18,7 @@ jobs:
       - name: Generate trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: >
-            username=${{ github.repository_owner }}
-            &theme=tokyonight
-            &no-frame=true
-            &column=6
-            &row=1
-            &margin-w=10
+          options: "username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10"
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
