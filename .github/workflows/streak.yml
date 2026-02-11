@@ -1,0 +1,31 @@
+name: Update GitHub Streak
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak
+        env:
+          STREAK_URL: "https://github-readme-streak-stats-2-one.vercel.app/?user=${{ github.repository_owner }}&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=50&hide_border=true"
+        run: |
+          mkdir -p profile
+          curl -L "$STREAK_URL" -o profile/streak.svg
+
+      - name: Commit streak
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update streak" || echo "No changes"
+          git push
