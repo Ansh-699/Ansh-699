@@ -1,0 +1,35 @@
+name: Update GitHub Stats Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats cards
+        env:
+          PROFILE_URL: "https://readme-2.vercel.app//api/cards/profile-details?username=${{ github.repository_owner }}&theme=tokyonight"
+          STATS_URL: "https://readme-2.vercel.app//api/cards/stats?username=${{ github.repository_owner }}&theme=tokyonight"
+          PRODUCTIVE_URL: "https://readme-2.vercel.app//api/cards/productive-time?username=${{ github.repository_owner }}&theme=tokyonight&utcOffset=+5.5"
+        run: |
+          mkdir -p profile
+          curl -L "$PROFILE_URL" -o profile/profile-details.svg
+          curl -L "$STATS_URL" -o profile/stats.svg
+          curl -L "$PRODUCTIVE_URL" -o profile/productive-time.svg
+
+      - name: Commit stats cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/profile-details.svg profile/stats.svg profile/productive-time.svg
+          git commit -m "Update stats cards" || echo "No changes"
+          git push
