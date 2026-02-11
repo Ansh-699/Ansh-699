@@ -14,7 +14,7 @@
   <!-- Profile Summary & Streak side‑by‑side -->
   <div style="display: flex; justify-content: center; gap: 0px; margin-bottom: 0px;">
     <img
-      src="https://readme-2.vercel.app//api/cards/profile-details?username=Ansh-699&theme=tokyonight"
+      src="./profile/profile-details.svg"
       width="680px"
       alt="Profile Summary"
     />
@@ -30,12 +30,12 @@
   <!-- Activity Stats -->
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
     <img
-      src="https://readme-2.vercel.app//api/cards/stats?username=Ansh-699&theme=tokyonight"
+      src="./profile/stats.svg"
       width="340px"
       alt="Activity Stats"
     />
     <img
-      src="https://readme-2.vercel.app//api/cards/productive-time?username=Ansh-699&theme=tokyonight&utcOffset=+5.5"
+      src="./profile/productive-time.svg"
       width="340px"
       alt="Productive Time"
     />
