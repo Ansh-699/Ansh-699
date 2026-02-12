@@ -19,10 +19,15 @@ jobs:
 
       - name: Generate streak
         env:
-          STREAK_URL: "https://github-readme-streak-stats-2-one.vercel.app/?user=${{ github.repository_owner }}&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=50&hide_border=true"
+          STREAK_URL: "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=50&hide_border=true"
         run: |
           mkdir -p profile
-          curl -L "$STREAK_URL" -o profile/streak.svg
+          curl -fL --retry 3 --retry-delay 2 "$STREAK_URL" -o profile/streak.svg
+          if ! grep -q "<svg" profile/streak.svg; then
+            echo "Invalid SVG in profile/streak.svg"
+            cat profile/streak.svg
+            exit 1
+          fi
 
       - name: Commit streak
         run: |
