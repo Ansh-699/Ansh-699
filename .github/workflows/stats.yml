@@ -19,14 +19,21 @@ jobs:
 
       - name: Generate stats cards
         env:
-          PROFILE_URL: "https://readme-2.vercel.app//api/cards/profile-details?username=${{ github.repository_owner }}&theme=tokyonight"
-          STATS_URL: "https://readme-2.vercel.app//api/cards/stats?username=${{ github.repository_owner }}&theme=tokyonight"
-          PRODUCTIVE_URL: "https://readme-2.vercel.app//api/cards/productive-time?username=${{ github.repository_owner }}&theme=tokyonight&utcOffset=+5.5"
+          PROFILE_URL: "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=tokyonight"
+          STATS_URL: "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&theme=tokyonight"
+          PRODUCTIVE_URL: "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=${{ github.repository_owner }}&theme=tokyonight&utcOffset=+5.5"
         run: |
           mkdir -p profile
-          curl -L "$PROFILE_URL" -o profile/profile-details.svg
-          curl -L "$STATS_URL" -o profile/stats.svg
-          curl -L "$PRODUCTIVE_URL" -o profile/productive-time.svg
+          curl -fL --retry 3 --retry-delay 2 "$PROFILE_URL" -o profile/profile-details.svg
+          curl -fL --retry 3 --retry-delay 2 "$STATS_URL" -o profile/stats.svg
+          curl -fL --retry 3 --retry-delay 2 "$PRODUCTIVE_URL" -o profile/productive-time.svg
+          for file in profile/profile-details.svg profile/stats.svg profile/productive-time.svg; do
+            if ! grep -q "<svg" "$file"; then
+              echo "Invalid SVG in $file"
+              cat "$file"
+              exit 1
+            fi
+          done
 
       - name: Commit stats cards
         run: |
