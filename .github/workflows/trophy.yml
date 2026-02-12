@@ -14,6 +14,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate trophy
         uses: soulteary/github-profile-trophy-action@v1.0.0
@@ -27,5 +29,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/trophy.svg
-          git commit -m "Update trophy" || echo "No changes"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Update trophy"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: false
